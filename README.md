@@ -1,5 +1,4 @@
-### Hi Visitant, I'm Júlio 👋
-#### Front-end and UX Designer
+# Hi Visitant, I'm Júlio 👋
 #
 ![alt text](https://raw.githubusercontent.com/juliovt-07/juliovt-07/master/home-1.png)
 #
