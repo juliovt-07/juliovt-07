@@ -2,11 +2,6 @@
 
 ![alt text](https://raw.githubusercontent.com/juliovt-07/juliovt-07/master/home-2.png)
 
-![alt text](https://raw.githubusercontent.com/juliovt-07/juliovt-07/master/home-1.png)
-
-
-
-
 <!--
 **juliovt-07/juliovt-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
