@@ -1,18 +1,18 @@
-# Hi Visitant, I'm Júlio 👋
+### **Júlio César**
+:fa-code: **Front-**end 
+:fa-desktop: **UX**/UI Designer 
+:fa-codepen: [**CodePen**](https://codepen.io/juliovt-07 "CodePen") | :fa-linkedin-square: [**LinkedIn**](https://www.linkedin.com/in/juliocesaar/ "LinkedIn") | :fa-instagram: [**Instagram**](https://www.instagram.com/julio_cesar_vt07/ "Instagram") | :fa-whatsapp: [**Whatsapp**](https://api.whatsapp.com/send?phone=5599984738118 "Whatsapp")
 
-![alt text](https://raw.githubusercontent.com/juliovt-07/juliovt-07/master/home-2.png)
 
-<!--
-**juliovt-07/juliovt-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+*HTML 5
+CSS 3
+JavaScript
+Python
+VueJs*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+> Em um caminho contínuo de aprendizado...
+
+:fa-github-square: **&#64;Juliovt-07 **
