@@ -12,12 +12,16 @@
 ------------
 
 *HTML 5
+<br>
 CSS 3
+<br>
 JavaScript
+<br>
 Python
+<br>
 VueJs*
 
 ------------
 > Em um caminho contínuo de aprendizado...
 
-:fa-github-square: &#64; **Juliovt-07**
+:fa-github-square: **&#64;Juliovt-07**
