@@ -118,3 +118,5 @@
 - 💻 Observe meus estudos pessoais de Front-end no <a href="https://codepen.io/juliovt-07">CodePen</a>
 - 💼 Conecte-se comigo no <a href="https://www.linkedin.com/in/juliocesaar/">LinkedIn</a>.
 - 📷 Siga-me no <a href="https://www.instagram.com/julio_cesar_vt07/">Instagram</a>.
+
+![](https://komarev.com/ghpvc/?username=juliovt-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
