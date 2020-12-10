@@ -2,14 +2,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git"
+      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git&theme=dark"
     />
   </a>
 </p>
