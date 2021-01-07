@@ -38,7 +38,7 @@
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png"
       alt="CSS"
       width="40"
       height="40"
