@@ -30,8 +30,8 @@
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"
-      alt="Figma"
+      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
+      alt="Javascript"
       width="40"
       height="40"
     />
