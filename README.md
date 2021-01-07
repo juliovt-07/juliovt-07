@@ -111,10 +111,42 @@
       height="40"
     />
   </a>
-    <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="Git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://trello.com/pt-BR" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg"
+      alt="Trello"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"
+      alt="WebStorm"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://yarnpkg.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
+      alt="Yarn"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+      alt="npm"
       width="40"
       height="40"
     />
