@@ -49,7 +49,7 @@
     target="_blank"
   >
     <img
-      src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       alt="HTML"
       width="40"
       height="40"
@@ -57,7 +57,7 @@
   </a>
   <a href="https://canaltech.com.br/software/Linux-voce-sabe-o-que-e-isso/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="Linux"
       width="40"
       height="40"
@@ -65,7 +65,7 @@
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/python/python-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="Python"
       width="40"
       height="40"
@@ -73,7 +73,7 @@
   </a>
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/react/react-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="React"
       width="40"
       height="40"
@@ -81,7 +81,7 @@
   </a>
   <a href="https://sass-lang.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
       alt="Sass"
       width="40"
       height="40"
@@ -89,7 +89,7 @@
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
       alt="Vuejs"
       width="40"
       height="40"
