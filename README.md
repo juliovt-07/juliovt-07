@@ -2,14 +2,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git&theme=dark&hide_border=true"
     />
   </a>
 </p>
@@ -150,6 +150,30 @@
       width="40"
       height="40"
     />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=heroku-first-api&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Css-Xiaomi&theme=onedark" />
+  </a>
+</p>
+<p align="center" style="margin-top: 5px">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=gerenciando-estados-com-vuex&theme=gotham" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Slider-Text&theme=material-palenight" />
+  </a>
+</p>
+<p align="center" style="margin-top: 5px">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Nuxt-Js&theme=gotham" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=FechamentoDeConta&theme=midnight-purple" />
   </a>
 </p>
 
