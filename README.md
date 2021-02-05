@@ -157,26 +157,26 @@
 ### Meus Repositórios Favoritos
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/juliovt-07/heroku-first-api" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=heroku-first-api&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/juliovt-07/Css-Xiaomi" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Css-Xiaomi&theme=onedark" />
   </a>
 </p>
-<p align="center" style="margin-top: 5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/juliovt-07/gerenciando-estados-com-vuex" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=gerenciando-estados-com-vuex&theme=gotham" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/juliovt-07/Slider-Text" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Slider-Text&theme=material-palenight" />
   </a>
 </p>
-<p align="center" style="margin-top: 5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/juliovt-07/Nuxt-Js" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Nuxt-Js&theme=gotham" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/juliovt-07/FechamentoDeConta" style="margin-top: 5px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=FechamentoDeConta&theme=midnight-purple" />
   </a>
 </p>
