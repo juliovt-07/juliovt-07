@@ -15,13 +15,13 @@
 </p>
 
 
-## Olá Visitante! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
+## Olá meu amigo, tá bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 ### Bio
 
-- 👨‍💻 Sou Desenvolvedor **Front-end** e **UX/UI Designer**.
-- 🌱 Atualmente estudando: **VueJS, Sass** e **JavaScript**.
-- 💙 Interesses: 🎸 Instrumentos Musicais, 📺 UCM (Marvel).
+- 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
+- 🌱 Atualmente estudando: **NuxtJS, BootstrapVue** e **NodeJs**.
+- 💙 <i>⁠"Sou só um vírus, querendo escapar, dos programadores da vida"</i>.
 
 ### Linguagens e Ferramentas
 
@@ -152,6 +152,10 @@
     />
   </a>
 </p>
+<hr/>
+
+### Meus Repositórios Favoritos
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=heroku-first-api&theme=great-gatsby" />
