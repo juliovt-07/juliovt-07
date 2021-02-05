@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/juliovt-07?tab=repositories">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/juliovt-07?tab=stars">
     <img
       align="center"
       height="165"
