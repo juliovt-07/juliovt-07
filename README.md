@@ -2,7 +2,7 @@
   <a href="https://github.com/juliovt-07?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true&langs_count=7"
     />
   </a>
   <a href="https://github.com/juliovt-07?tab=stars">
