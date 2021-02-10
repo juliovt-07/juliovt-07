@@ -173,8 +173,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/juliovt-07/gerenciando-estados-com-vuex">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=gerenciando-estados-com-vuex&theme=gotham" />
+  <a href="https://github.com/juliovt-07/consuming-api-with-dart">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=consuming-api-with-dart&theme=cobalt" />
   </a>
   <a href="https://github.com/juliovt-07/Slider-Text">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Slider-Text&theme=material-palenight" />
