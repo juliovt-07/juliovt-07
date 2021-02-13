@@ -184,8 +184,8 @@
   <a href="https://github.com/juliovt-07/Nuxt-Js">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Nuxt-Js&theme=gotham" />
   </a>
-  <a href="https://github.com/juliovt-07/FechamentoDeConta">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=FechamentoDeConta&theme=midnight-purple" />
+  <a href="https://github.com/juliovt-07/Pokeapi-vue">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliovt-07&repo=Pokeapi-vue&theme=gotham" />
   </a>
 </p>
 
