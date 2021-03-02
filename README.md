@@ -20,7 +20,7 @@
 ### Bio
 
 - 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
-- 🌱 Atualmente estudando: **NuxtJS, BootstrapVue** e **NodeJs**.
+- 🌱 Atualmente estudando: **Dart, BootstrapVue** e **NodeJs**.
 - 💙 <i>⁠"Sou só um vírus, querendo escapar, dos programadores da vida"</i>.
 
 ### Linguagens e Ferramentas
