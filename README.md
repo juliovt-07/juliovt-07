@@ -8,7 +8,7 @@
   <a href="https://github.com/juliovt-07?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
     />
   </a>
 
