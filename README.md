@@ -2,16 +2,16 @@
   <a href="https://github.com/juliovt-07?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&custom_title=Linguagens%20Mais%20Usadas&theme=dark&hide_border=true&langs_count=10"
     />
   </a>
-  <a href="https://github.com/juliovt-07?tab=stars">
+  <a href="https://github.com/juliovt-07?tab=repositories">
     <img
       align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git&theme=dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact"
     />
   </a>
+
 </p>
 
 
@@ -196,3 +196,13 @@
 - 📷 Siga-me no <a href="https://www.instagram.com/julio_cesar_vt07/">Instagram</a>.
 
 ![](https://komarev.com/ghpvc/?username=juliovt-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
+
+<p align="center">
+  <a href="https://github.com/juliovt-07?tab=stars">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&custom_title=Status%20Git&theme=dark&hide_border=true"
+    />
+  </a>
+</p>
