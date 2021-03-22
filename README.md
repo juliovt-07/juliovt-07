@@ -1,21 +1,4 @@
-<p align="center">
-  <a href="https://github.com/juliovt-07?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
-    />
-  </a>
-  <a href="https://github.com/juliovt-07?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
-    />
-  </a>
-
-</p>
-
-
-## Olá meu amigo, tá bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
+## Oi meu Jovem! tranquilo? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 ### Bio
 
@@ -161,6 +144,37 @@
   </a>
 </p>
 <hr/>
+<details>
+  <summary>Linguagens mais usadas</summary>
+  <a href="https://github.com/juliovt-07?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
+    />
+  </a>
+</details>
+<details>
+  <summary>WakaTime Status</summary>
+  <a href="https://github.com/juliovt-07?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
+    />
+  </a>
+</details>
+<details>
+  <summary>Git Status</summary>
+  <p align="center">
+    <a href="https://github.com/juliovt-07?tab=stars">
+      <img
+        align="center"
+        height="165"
+        src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=dark&hide_border=true"
+      />
+    </a>
+  </p>
+</details>
+<hr/>
 
 ### Meus Repositórios Favoritos
 
@@ -196,13 +210,3 @@
 - 📷 Siga-me no <a href="https://www.instagram.com/julio_cesar_vt07/">Instagram</a>.
 
 ![](https://komarev.com/ghpvc/?username=juliovt-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
-
-<p align="center">
-  <a href="https://github.com/juliovt-07?tab=stars">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=dark&hide_border=true"
-    />
-  </a>
-</p>
