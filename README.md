@@ -146,21 +146,25 @@
 <hr/>
 <details>
   <summary>Linguagens mais usadas</summary>
-  <a href="https://github.com/juliovt-07?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
-    />
-  </a>
+  <p align="center">
+    <a href="https://github.com/juliovt-07?tab=repositories">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
+      />
+    </a>
+  </p>
 </details>
 <details>
   <summary>WakaTime Status</summary>
-  <a href="https://github.com/juliovt-07?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
-    />
-  </a>
+  <p align="center">
+    <a href="https://github.com/juliovt-07?tab=repositories">
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=juliovt&theme=dark&layout=compact&hide_border=true"
+      />
+    </a>
+  </p>
 </details>
 <details>
   <summary>Git Status</summary>
