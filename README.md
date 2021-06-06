@@ -3,7 +3,7 @@
 ### Bio
 
 - 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
-- 🌱 Atualmente estudando: **Delphi** e **JSP**.
+- 🌱 Atualmente estudando: **Delphi** e **Vuetify**.
 - 💙 <i>⁠"Sou só um vírus, querendo escapar, dos programadores da vida"</i>.
 
 ### Linguagens e Ferramentas
