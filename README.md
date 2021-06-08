@@ -1,5 +1,4 @@
-## Oi meu Jovem! tranquilo? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 ### Bio
 
 - 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
