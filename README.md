@@ -1,4 +1,6 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/juliovt-07/juliovt-07/blob/output/github-contribution-grid-snake.svg">
+</div
 ### Bio
 
 - 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
