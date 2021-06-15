@@ -1,15 +1,18 @@
 <div align="center">
   <img src="https://github.com/juliovt-07/juliovt-07/blob/output/github-contribution-grid-snake.svg">
 </div
-### Bio
+<br>
+  
+### to update you
 
-- 👨‍💻 Sou Desenvolvedor **Front-end** e **UI Designer**.
-- 🌱 Atualmente estudando: **Delphi** e **Vuetify**.
-- 💙 <i>⁠"Sou só um vírus, querendo escapar, dos programadores da vida"</i>.
+  
+- 👨‍💻 I am **Front-end** developer and **UI Designer**.
+- 🌱 Currently studying: **Delphi** and **Vuetify**.
+- 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
-### Linguagens e Ferramentas
+<br>
 
-<br/>
+### in short, that's what I know
 
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank">
@@ -156,10 +159,10 @@
   </p>
 <hr/>
 
-### Encontre-me na web 🌎:
+### against me 🌎:
 
-- 💻 Observe meus estudos pessoais de Front-end no <a href="https://codepen.io/juliovt-07">CodePen</a>
-- 💼 Conecte-se comigo no <a href="https://www.linkedin.com/in/juliocesaar/">LinkedIn</a>.
-- 📷 Siga-me no <a href="https://www.instagram.com/juliocaesaar/">Instagram</a>.
+- 💻 Note my personal Front-end studies in the <a href="https://codepen.io/juliovt-07">CodePen</a>
+- 💼 Connect with me on the <a href="https://www.linkedin.com/in/juliocesaar/">LinkedIn</a>.
+- 📷 Follow-me in <a href="https://www.instagram.com/juliocaesaar/">Instagram</a>.
 
 ![](https://komarev.com/ghpvc/?username=juliovt-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
