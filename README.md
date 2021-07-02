@@ -53,20 +53,27 @@
   <a href="https://nuxtjs.org/" target="_blank">
     <img
       src="https://nuxtjs.org/logos/nuxt.svg"
-      alt="npm"
+      alt="Nuxt"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
+  <a href="https://vuetifyjs.com/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-      alt="npm"
+      src="https://www.jeffholst.net/wp-content/uploads/2019/01/Vue.png"
+      alt="Vuetify"
       width="40"
       height="40"
     />
   </a>
-
+  <a href="https://bootstrap-vue.org/" target="_blank">
+    <img
+      src="https://opencollective-production.s3.us-west-1.amazonaws.com/2ea40e90-e734-11e9-aac4-b78491973d14.png"
+      alt="BootstrapVue"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <a href="https://sass-lang.com/" target="_blank">
     <img
