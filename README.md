@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Front-end** developer and **UI Designer**.
-- 🌱 Currently studying: **Vuex** and **Vuetify**.
+- 🌱 Currently studying: **Vuex** and **CSS Grid**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
