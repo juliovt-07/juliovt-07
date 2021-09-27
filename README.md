@@ -68,7 +68,7 @@
   </a>
   <a href="https://nuxtjs.org/" target="_blank">
     <img
-      src="https://nuxtjs.org/logos/nuxt.svg"
+      src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"
       alt="Nuxt"
       width="40"
       height="40"
