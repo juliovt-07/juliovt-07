@@ -184,7 +184,7 @@
 
 ### against me 🌎:
 
-- 💻 Note my personal Front-end studies in the <a href="https://codepen.io/juliovt-07">CodePen</a>
+- 💻 See my portfolio site <a href="https://julioeu.vercel.app/">Portifolio</a>
 - 💼 Connect with me on the <a href="https://www.linkedin.com/in/juliocesaar/">LinkedIn</a>.
 - 📷 Follow-me in <a href="https://www.instagram.com/juliocaesaar/">Instagram</a>.
 
