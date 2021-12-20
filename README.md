@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Front-end** developer and **UI Designer**.
-- 🌱 Currently studying: **Axios** and **Nuxt**.
+- 🌱 Currently studying: **tailwindcss** and **VueTailwind**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
