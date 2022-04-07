@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Front-end** developer and **UI Designer**.
-- 🌱 Currently studying: **Tailwind** and **Fluig**.
+- 🌱 Currently studying: **Tailwind** and **Firebase**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
