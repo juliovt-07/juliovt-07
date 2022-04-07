@@ -76,7 +76,7 @@
   </a>
   <a href="https://vuetifyjs.com/" target="_blank">
     <img
-      src="https://www.jeffholst.net/wp-content/uploads/2019/01/Vue.png"
+      src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg"
       alt="Vuetify"
       width="40"
       height="40"
