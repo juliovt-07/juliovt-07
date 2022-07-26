@@ -115,6 +115,14 @@
       height="40"
     />
   </a>
+  <a href="https://firebase.google.com/?hl=pt" target="_blank">
+    <img
+      src="https://cdn.cdnlogo.com/logos/f/48/firebase.svg"
+      alt="Firebase"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
@@ -143,14 +151,6 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
       alt="VsCode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jetbrains.com/pt-br/webstorm/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"
-      alt="WebStorm"
       width="40"
       height="40"
     />
