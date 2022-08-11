@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Front-end** developer and **UI Designer**.
-- 🌱 Currently studying: **Pusher** and **Firebase**.
+- 🌱 Currently studying: **NestJs** and **Firebase**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
