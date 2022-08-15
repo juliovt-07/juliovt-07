@@ -123,42 +123,17 @@
       height="40"
     />
   </a>
+  <a href="https://pusher.com/" target="_blank">
+    <img
+      src="https://seeklogo.com/images/P/pusher-logo-4C7555E4D0-seeklogo.com.png"
+      alt="Pusher"
+      height="40"
+    />
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="Git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg"
-      alt="Yarn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-      alt="npm"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
-      alt="VsCode"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://canaltech.com.br/software/Linux-voce-sabe-o-que-e-isso/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="Linux"
       width="40"
       height="40"
     />
