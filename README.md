@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Web Developer** developer and **UI Designer**.
-- 🌱 Currently studying: **NestJs** and **ReactJs**.
+- 🌱 Currently studying: **NestJs** and **MongoDb**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
