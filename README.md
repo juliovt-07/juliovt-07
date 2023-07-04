@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **Web Developer** and **UI Designer**.
-- 🌱 Currently studying: **TypeScript** and **Composition Api**.
+- 🌱 Currently studying: **Laravel** and **Docker**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
@@ -149,18 +149,11 @@
 </p>
 <hr/>
   <p align="center">
-    <a href="https://github.com/juliovt-07?tab=repositories">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=dark&hide_border=true&langs_count=10"
-      />
+    <a href="https://github.com/juliovt-07">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliovt-07&line_height=55&show_icons=true&theme=dark&hide_border=true" />
     </a>
-    <a href="https://github.com/juliovt-07?tab=stars">
-      <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=dark&hide_border=true"
-      />
+    <a href="https://github.com/juliovt-07">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&line_height=40&show_icons=true&theme=dark&hide_border=true&layout=pie" />
     </a>
   </p>
 <hr/>
