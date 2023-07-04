@@ -6,7 +6,7 @@
 ### to update you
 
   
-- 👨‍💻 I am **Web Developer** and **UI Designer**.
+- 👨‍💻 I am **FullStack Developer** and **UI Designer**.
 - 🌱 Currently studying: **Laravel** and **Docker**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
