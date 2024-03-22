@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **FullStack Developer** and **UI Designer**.
-- 🌱 Currently studying: **Laravel** and **Docker**.
+- 🌱 Currently studying: **SQL** and **Docker**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
