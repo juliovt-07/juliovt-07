@@ -7,7 +7,7 @@
 
   
 - 👨‍💻 I am **FullStack Developer** and **UI Designer**.
-- 🌱 Currently studying: **SQL** and **Docker**.
+- 🌱 Currently studying: **Filament PHP** and **React Js**.
 - 💙 <i>⁠"my goal is always to want to evolve"</i>.
 
 <br>
@@ -101,7 +101,7 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
       alt="Tailwind"
       width="40"
       height="40"
@@ -125,7 +125,7 @@
   </a>
   <a href="https://pusher.com/" target="_blank">
     <img
-      src="https://seeklogo.com/images/P/pusher-logo-4C7555E4D0-seeklogo.com.png"
+      src="https://logosandtypes.com/wp-content/uploads/2020/12/pusher.svg"
       alt="Pusher"
       height="40"
     />
