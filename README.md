@@ -67,6 +67,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
   </a>
@@ -131,6 +135,10 @@
   &nbsp;&nbsp;
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175140.png?f=webp" alt="MongoDb" width="50" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank">
