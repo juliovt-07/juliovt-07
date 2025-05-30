@@ -1,167 +1,229 @@
-<!-- <div align="center">
-  <img src="https://github.com/juliovt-07/juliovt-07/blob/output/github-contribution-grid-snake.svg">
-</div
-<br>
--->
-### to update you
+<div align="center">
 
-  
-- 👨‍💻 I am **FullStack Developer** and **UI Designer**.
-- 🌱 Currently studying: **Filament PHP** and **React Js**.
-- 💙 <i>⁠"my goal is always to want to evolve"</i>.
+<!-- <img src="https://github.com/juliovt-07/juliovt-07/blob/output/github-contribution-grid-snake.svg" width="100%"> -->
+
+# 👋 Welcome to my GitHub!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Development+Specialist;Modern+System+Architecture;Always+learning+new+technologies!" alt="Typing SVG" />
+
+</div>
 
 <br>
 
-### in short, that's what I know
+<div align="center">
 
-<p align="left">
+### 🚀 About Me
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎯 Specialties**
+- 💻 Software Engineering
+- 🌐 Web Development  
+- 📱 Mobile Development
+- ⚙️ DevOps & CI/CD
+
+</td>
+<td align="center" width="50%">
+
+**🌱 Currently Learning**
+- React Native & Capacitor.js
+- GitHub Actions & Automation
+- Hybrid Mobile Development
+- Performance Optimization
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+> *"Always seeking continuous evolution and best practices"*
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend & Mobile
+<p align="center">
   <a href="https://www.javascript.com/" target="_blank">
-    <img
-      src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png"
-      alt="Javascript"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="CSS"
-      width="40"
-      height="40"
-    />
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   </a>
-  <a
-    href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="HTML"
-      width="40"
-      height="40"
-    />
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="Vuejs"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" />
   </a>
-  <a href="https://vuex.vuejs.org/" target="_blank">
-    <img
-      src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png"
-      alt="Vuex"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://router.vuejs.org/" target="_blank">
-    <img
-      src="https://user-images.githubusercontent.com/7110136/29002858-a09570d2-7ab4-11e7-8faa-5dd6d4458b0d.png"
-      alt="VueRouter"
-      width="40"
-      height="40"
-    />
-  </a>
+  &nbsp;&nbsp;
   <a href="https://nuxtjs.org/" target="_blank">
-    <img
-      src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"
-      alt="Nuxt"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="50" height="50" />
   </a>
-  <a href="https://vuetifyjs.com/" target="_blank">
-    <img
-      src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg"
-      alt="Vuetify"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://bootstrap-vue.org/" target="_blank">
-    <img
-      src="https://opencollective-production.s3.us-west-1.amazonaws.com/2ea40e90-e734-11e9-aac4-b78491973d14.png"
-      alt="BootstrapVue"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://sass-lang.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="Sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-      alt="Tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/?hl=pt" target="_blank">
-    <img
-      src="https://cdn.cdnlogo.com/logos/f/48/firebase.svg"
-      alt="Firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://pusher.com/" target="_blank">
-    <img
-      src="https://logosandtypes.com/wp-content/uploads/2020/12/pusher.svg"
-      alt="Pusher"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      alt="Git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png"
-      alt="Figma"
-      width="40"
-      height="40"
-    />
+  &nbsp;&nbsp;
+  <a href="https://capacitorjs.com/" target="_blank">
+    <img src="https://styles.redditmedia.com/t5_11k7yb/styles/communityIcon_4qop9fxwzv651.png" alt="Capacitor" width="50" height="50" />
   </a>
 </p>
-<hr/>
-  <p align="center">
-    <a href="https://github.com/juliovt-07">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliovt-07&line_height=55&show_icons=true&theme=dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/juliovt-07">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&line_height=40&show_icons=true&theme=dark&hide_border=true&layout=pie" />
-    </a>
-  </p>
-<hr/>
 
-### against me 🌎:
+<br>
 
-- 💻 See my portfolio site <a href="https://julioeu.vercel.app/">Portifolio</a>
-- 💼 Connect with me on the <a href="https://www.linkedin.com/in/juliocesaar/">LinkedIn</a>.
-- 📷 Follow-me in <a href="https://www.instagram.com/juliocaesaar/">Instagram</a>.
+### Styling & UI Libraries
+<p align="center">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn/ui" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vuetifyjs.com/" target="_blank">
+    <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-atom.svg" alt="Vuetify" width="50" height="50" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=juliovt-07&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
+<br>
+
+### Backend & Database
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://filamentphp.com/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="Filament PHP" width="50" height="50" style="border-radius: 8px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
+  </a>
+</p>
+
+<br>
+
+### DevOps & Tools
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://framer.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="Framer" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://xd.adobe.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" height="50" />
+  </a>
+</p>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=juliovt-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliovt-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juliovt-07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://julioeu.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juliocesaar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/juliocaesaar/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:juliocesaar.ma@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=juliovt-07&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+
+---
+
+### ⚡ Fun Fact
+*Turning ideas into code since forever! 🚀*
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand">
+
+</div>
